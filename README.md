@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Victor
 I study math, chemistry and physics while trying to learn how to use code to my advantage!
 
-Skills: C#, Dart, Flutter
+Skills: C#, Dart, Flutter, Arduino(some C/C++)
 
 🔭 I’m currently working on an app for my school <br>🌱 I’m currently learning Dart and flutter 
 
