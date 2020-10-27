@@ -3,6 +3,6 @@ I study math, chemistry and physics while trying to learn how to use code to my 
 
 Skills: C#, Dart, Flutter, Arduino(some C/C++)
 
-🔭 I’m currently working on an app for Astronomy <br>🌱 I’m currently learning REST API's 
+🔭 I’m currently busy with school... 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/byggemandboesen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://myastronomyjourney.wordpress.com/)  
