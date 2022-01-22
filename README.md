@@ -4,6 +4,6 @@ I'm primarily a self taught programmer since mid high school, however, I took a 
 
 Skills: Python (matplotlib and data processing primarily📊), slight C# and Flutter knowledge
 
-🔭 I’m currently into data analysis with python (matplotlib, numpy, pandas) and working on a [crypto discord alert bot](https://github.com/byggemandboesen/TradeFinder.git)
+🔭 I’ve currently returned to a project of mine involving python, a kivymd UI, software defined radio and matplotlib: [H-Line-software](https://github.com/byggemandboesen/H-line-software.git)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='40'>](https://github.com/byggemandboesen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='Website' height='40'>](https://myastronomyjourney.wordpress.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='Twitter' height='40'>](https://twitter.com/victor_boesen) 
