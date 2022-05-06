@@ -4,7 +4,9 @@ Hi 👋 My name is Victor Boesen
 BSc student in Earth and Space Physics and Engineering
 ------------------------------------------------------
 
-I started programming in the year of 2018-19 where I initially (programmed in C#)[https://github.com/byggemandboesen/Satellite-tracker]. However, I quickly switched to Python due to its cross platform capabilities and variety of packages to chose from. Today I'm mostly doing data/signal processing and simple graphical data illustrations with Matplotlib. My favorite project is my (hydrogen line software)[https://github.com/byggemandboesen/H-line-software], which connects my major interest in astronomy and software defined radio into one project. This project won the competition ("Unge Forskere" in 2021)[https://www.youtube.com/watch?v=Y9WSf2K3NuI].
+I started programming in the year of 2018-19 where I initially [programmed in C#](ttps://github.com/byggemandboesen/Satellite-tracker). However, I quickly switched to Python due to its cross platform capabilities and variety of packages to chose from. Today I'm mostly doing data/signal processing and simple graphical data illustrations with Matplotlib. 
+<br>
+My favorite project is my [hydrogen line software](https://github.com/byggemandboesen/H-line-software) which connects my major interest in astronomy and software defined radio into one project. This project won the competition ["Unge Forskere" in 2021](https://www.youtube.com/watch?v=Y9WSf2K3NuI).
 
 *   🌍  I'm based in Copenhagen, Denmark
 *   🚀  I'm currently working on [Hydrogen line software](http://github.com/byggemandboesen/H-line-software)
