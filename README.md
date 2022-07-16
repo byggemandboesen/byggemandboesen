@@ -10,6 +10,7 @@ My favorite project is my [hydrogen line software](https://github.com/byggemandb
 
 *   🌍  I'm based in Copenhagen, Denmark
 *   🚀  I'm currently working on [Hydrogen line software](http://github.com/byggemandboesen/H-line-software)
+*   📝  I'm slowly learning/studying C++ in my spare time.
 
 ### Socials
 
