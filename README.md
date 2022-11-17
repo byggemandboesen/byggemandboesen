@@ -9,8 +9,7 @@ I started programming in the year of 2018-19 where I initially [programmed in C#
 My favorite project is my [hydrogen line software](https://github.com/byggemandboesen/H-line-software) which connects my major interest in astronomy and software defined radio into one project. This project won the competition ["Unge Forskere" in 2021](https://www.youtube.com/watch?v=Y9WSf2K3NuI).
 
 *   🌍  I'm based in Copenhagen, Denmark
-*   🚀  I'm currently working on [Hydrogen line software](http://github.com/byggemandboesen/H-line-software)
-*   📝  I'm currently learning/studying C++ in my spare time
+*   🚀  I'm currently working on [radio astronomy software](http://github.com/byggemandboesen/RadioPy)
 
 ### Socials
 
